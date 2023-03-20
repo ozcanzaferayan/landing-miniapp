@@ -25,5 +25,11 @@
   },
   "jest": {
     "preset": "react-native"
+  },
+  "ern": {
+    "moduleName": "GtcLandingMiniapp",
+    "moduleType": "ern-miniapp",
+    "packageManager": "yarn",
+    "version": "0.48.4"
   }
 }
